@@ -1,8 +1,8 @@
 # GASP_DynamicAdditiveOverlay
 
-This Repository uses LFS (Large File Storage), this means if you download the Zip it will have some empty folders.
+**This Repository uses LFS (Large File Storage), this means if you download the Zip it will have some empty folders.
 To get around this, please do not download the Zip, instead download the Desktop App and Clone this Repository.
-I'm not sure if you will need LFS but here is the link in case you do. https://git-lfs.com
+I'm not sure if you will need LFS but here is the link in case you do. https://git-lfs.com**
 
 The Dynamic Additive Overlay technique is most famously known in ALS. After studying ALS on and off over time I began to understand how it worked. When the Game Animation Sample Project dropped I decided to do a simple tutorial on using that technique to overlay poses naturally onto the Motion Matching. It soon started gathering publicity and rapidly evolving as I realized that my simplistic approach only helped people understand it because it was far too simplified.
 
