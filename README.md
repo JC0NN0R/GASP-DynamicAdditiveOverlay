@@ -20,7 +20,9 @@ I will develop this Readme further as we go.
 
 The Following Folders have been removed and can be added back from the original Game Animation Sample Project (GASP)
 Content/Characters/Echo/Textures
+
 Content/Characters/Paragon/Heroes/TwinBlast/Textures
+
 Content/Characters/Paragon/Global
 
 Developed with Unreal Engine 5
