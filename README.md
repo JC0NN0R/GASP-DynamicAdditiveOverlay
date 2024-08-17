@@ -16,8 +16,11 @@ As you can see in the image I have a line trace running, this is for correcting 
 
 I will develop this Readme further as we go.
 
-Due to Bandwidth expenses I am going to be reducing the file size of this Repository as much as possible, the Echo Character's textures consume 1.3 gbs of bandwidth and so were removed
-The link to these textures are here: https://drive.google.com/file/d/12YDHXEq3Soa1Gdvb8bcQsKJq0dTdSrML/view?usp=sharing
-To add them back unzip them into this Folder: Content\Characters\Echo\Textures
+**Due to Bandwidth expenses I am going to be reducing the file size of this Repository as much as possible, the Echo Character's textures consume 1.3 gbs of bandwidth and so were removed**
+
+The Following Folders have been removed and can be added back from the original Game Animation Sample Project (GASP)
+Content/Characters/Echo/Textures
+Content/Characters/Paragon/Heroes/TwinBlast/Textures
+Content/Characters/Paragon/Global
 
 Developed with Unreal Engine 5
