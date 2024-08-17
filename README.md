@@ -30,4 +30,6 @@ Content/Characters/Paragon/Heroes/TwinBlast/Textures
 
 Content/Characters/Paragon/Global
 
+Removing these Folders has freed up well over 2gbs of Bandwidth per Clone
+
 Developed with Unreal Engine 5
