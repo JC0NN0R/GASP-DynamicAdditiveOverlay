@@ -1,4 +1,4 @@
-# GASP_DynamicAdditiveOverlay
+# GASP_DynamicAdditiveOverlay v1.22
 
 **This Repository uses LFS (Large File Storage), this means if you download the Zip it will have some empty folders.
 To get around this, please do not download the Zip, instead download the Desktop App and Clone this Repository.
