@@ -1,5 +1,8 @@
 # GASP_DynamicAdditiveOverlay v1.22
 
+This Repository is not free, it is costing me money to host this and I keep running out low on bandwidth. I have had to buy 3 50gb Data Packs in less then a week 2 of those were consumed before I removed some textures which reduced the Repo by close to 60%
+With that said I would appreciate any Sponsors or Donations towards Bandwidth that anyone is willing to give. $5 will sponsor 50gb's of Data for a month.
+
 # DO NOT DOWNLOAD ZIP, THIS REPO USES LFS (LARGE FILE STORAGE) READ THIS README
 **This Repository uses LFS (Large File Storage), this means if you download the Zip it will have some empty folders.
 To get around this, please do not download the Zip, instead download the Desktop App and Clone this Repository.
