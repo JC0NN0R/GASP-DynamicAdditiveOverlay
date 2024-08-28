@@ -8,6 +8,8 @@ With that said I would appreciate any Sponsors or Donations towards Bandwidth th
 To get around this, please do not download the Zip, instead download the Desktop App and Clone this Repository.
 I'm not sure if you will need LFS but here is the link in case you do. https://git-lfs.com**
 
+# ABOUT THIS PROJECT
+
 The Dynamic Additive Overlay technique is most famously known in ALS. After studying ALS on and off over time I began to understand how it worked. When the Game Animation Sample Project dropped I decided to do a simple tutorial on using that technique to overlay poses naturally onto the Motion Matching. It soon started gathering publicity and rapidly evolving as I realized that my simplistic approach was a bit to simplistic and suffered from some serious limitations. 
 
 Although a good learning intro to the technique I wanted to improve it but I wanted to do it all from scratch rather then copy/pasting code someone else wrote, so I began this project. This project was originally only really meant to demonstrate an approach to extending the Motion Matching Sample Project, it is mostly meant for Educational Purposes only, however I am aware many people will be building off of it and I am fine with that.
