@@ -1,4 +1,4 @@
-# GASP_DynamicAdditiveOverlay v1.24
+# GASP_DynamicAdditiveOverlay v1.25
 
 This Repository is not free, it is costing me money to host this and I keep running low on bandwidth and having to add another $5 LFS Data Pack. I have had to buy 3 50gb Data Packs in less then a week 2 of those were consumed before I removed some textures which reduced the Repo by close to 60%
 With that said I would appreciate any Sponsors or Donations towards Bandwidth that anyone is willing to give. $5 will sponsor 50gb's of Data for a month. If you would like to Sponsor a Data Pack I believe you can do that directly from here or you can contact me on my Discord https://discord.gg/pEPzqney
