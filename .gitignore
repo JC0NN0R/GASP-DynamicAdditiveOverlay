@@ -1,5 +1,17 @@
-# Ignore everything
-*
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Plugins/
+/Content/*
+!/Content/DAO/
 
-# Unignore the DAO Folder
-!Content/DAO
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
