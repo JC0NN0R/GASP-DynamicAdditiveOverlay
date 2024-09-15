@@ -5,6 +5,7 @@
 /Plugins/
 /Content/*
 !/Content/DAO/
+GASP_DynamicAdditiveOverlay.uproject
 
 .vs
 *.VC.db
