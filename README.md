@@ -3,6 +3,8 @@
 # Setup - 
 Due to Bandwidth Cost over the past month ($65), and the fact we capped that out on the last day....I have entirely removed everything from the project that isn't part of the changes I made. The Project is now roughly ~35mb download, this should dramatically decrease the cost to almost nothing. However there will now be additional setup. I will make a video in the morning and post it here alongside the new steps to cloning this.
 
+For the video walkthrough: https://youtu.be/lBOvJg22PuY
+
 Initial Setup
 1. Clone the Repo
 2. Create a GASP Project
