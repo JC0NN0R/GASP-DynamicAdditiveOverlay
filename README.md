@@ -15,7 +15,7 @@ Project Setup
 2. Create Virtual Bones on the Character
 
 This repository is now free, as long as I keep the project size under 100mbs I shouldn't need LFS Storage.
-I'm not sure if you will need LFS but here is the link in case you do. https://git-lfs.com**
+I'm not sure if you will need LFS but here is the link in case you do. https://git-lfs.com
 
 # ABOUT THIS PROJECT
 
