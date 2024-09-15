@@ -16,3 +16,4 @@ GASP_DynamicAdditiveOverlay.uproject
 *.suo
 *.xcodeproj
 *.xcworkspace"/Content/" 
+*.uproject
