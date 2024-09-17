@@ -33,7 +33,7 @@ As you can see in the image I have a line trace running, this is for correcting 
 
 I will develop this Readme further as we go.
 
-**Due to Bandwidth expenses I am going to be reducing the file size of this Repository as much as possible, the Echo Character's textures consume 1.3 gbs of bandwidth and so were removed**
+**Due to Bandwidth expenses I am going to be reducing the file size of this Repository as much as possible, everything was removed but the changes I made in order to keep this project Free so that it wouldn't cost me anything to share it openly on GitHub**
 
 The Following Folders have been removed and can be added back from the original Game Animation Sample Project (GASP)
 
