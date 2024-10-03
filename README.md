@@ -1,4 +1,4 @@
-# GASP_DynamicAdditiveOverlay v1.27
+# GASP_DynamicAdditiveOverlay v1.28
 
 # Setup
 Due to Bandwidth Cost over the past month ($65), and the fact we capped that out on the last day....I have entirely removed everything from the project that isn't part of the changes I made. The Project is now roughly ~50mb download, this should dramatically decrease the cost to almost nothing. However there will now be additional setup. I will make a video in the morning and post it here alongside the new steps to cloning this.
