@@ -26,7 +26,7 @@ The Dynamic Additive Overlay technique is most famously known in ALS. After stud
 
 Although a good learning intro to the technique I wanted to improve it but I wanted to do it all from scratch rather then copy/pasting code someone else wrote, so I began this project. This project was originally only really meant to demonstrate an approach to extending the Motion Matching Sample Project, it is mostly meant for Educational Purposes only, however I am aware many people will be building off of it and I am fine with that.
 
-I didn't copy/paste ALS code although I do use a few of Calvin's Poses simply because they saved me time and worked fine for the situation given they were designed with this in mind and not much modifications would need to be made after retargeting them.
+I didn't copy/paste ALS code although I do use a few of Caleb Longmire's Poses simply because they saved me time and worked fine for the situation given they were designed with this in mind and not much modifications would need to be made after retargeting them.
 Some of the other poses I did myself, such as for the Aimoffset, an AimSweep to me personally seemed to overcomplicate the situation. I was able to use basically the same technique but using only 2 poses modified from the rifle holding pose which I had to correct for anatomy offsets.
 
 In this project I take full advantage of the Live Retargeting and I promote the use of it for dealing with Anatomy Issues. My approach involves State Based Hand Offsets applied to the Live Retarget which gets automatically interpolated in the animation instance during live retargeting.
