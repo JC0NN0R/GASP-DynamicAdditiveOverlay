@@ -1,5 +1,8 @@
 # GASP_DynamicAdditiveOverlay v1.29
 
+# Requirements
+Read My License, you can distribute this software but I require my License to be Distributed with it, this is how you credit me for the work I have put into this project. This License is effective 10/11/2024, going forward anyone who uses this project is bound by law to this new License. If you plan on redistributing it you must include my License.
+
 Due to Bandwidth Cost over the past month ($65), and the fact we capped that out on the last day....I have entirely removed everything from the project that isn't part of the changes I made. The Project is now roughly ~50mb download, this should dramatically decrease the cost to almost nothing. However there will now be additional setup. I will make a video in the morning and post it here alongside the new steps to cloning this.
 
 # WATCH THIS VIDEO TO PROPERLY SET THIS UP
